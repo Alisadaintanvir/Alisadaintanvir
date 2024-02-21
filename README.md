@@ -39,7 +39,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   
 - 🎨 Frameworks & Libraries:
   
-  ![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=0D6D8C)
+  ![React](https://img.shields.io/badge/React-12343?style=flat&logo=React&logoColor=white&color=0D6D8C)
   ![Jquery](https://img.shields.io/badge/Jquery-12343?style=flat&logo=jquery&color=0769AD)
   ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-12343?style=flat&logo=Bootstrap&logoColor=white&color=6E2CF2)&nbsp;
