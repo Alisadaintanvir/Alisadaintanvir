@@ -114,31 +114,27 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/alisadaintanv
 
 <p align="center">
  <a href="">
- <img border="0" width="20" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ <img border="0" alt="Ali Sadain's Portfolio" src="https://alisadain.com">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/alisadaintanvir/">
  
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ <img border="0" alt="Sadain's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ <a href="https://www.instagram.com/sadain007/">
+ <img border="0" alt="sadain" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ <a href="https://t.me/alisadaintanvir">
+ <img border="0" alt="sadain" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+ <a href="https://discord.gg/SDBHCtsMtc">
+ <img border="0" alt="Sadain (He/Him)" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:alamin.contact24@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ <a href="mailto:alisadaintanvir@gmail.com">
+ <img border="0" alt="Sadain's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
 
