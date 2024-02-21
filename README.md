@@ -112,11 +112,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/alisadaintanv
 
 <p align="center"><!-----Social Accounts------>
 
-<p align="center">
- <a href="">
- <img border="0" alt="Ali Sadain's Portfolio" src="https://alisadain.com">
- </a>
-
  <a href="https://www.linkedin.com/in/alisadaintanvir/">
  
  <img border="0" alt="Sadain's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
