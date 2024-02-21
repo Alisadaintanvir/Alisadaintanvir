@@ -61,9 +61,12 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 
 - 🎛️ Application and Tools:
 
+  ![Wordpress](https://img.shields.io/badge/Wordpress-12343?style=flat&logo=Wordpress&logoColor=white&color=3D3B40)
   ![Git](https://img.shields.io/badge/Git-1342?style=flat&logo=git&color=131E34)
   ![GitHub](https://img.shields.io/badge/Github-1342?style=flat&logo=Github&color=black)
   ![postman](https://img.shields.io/badge/Postman-1342?style=flat&logo=Postman&color=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloundflare-12343?style=flat&logo=Cloudflare&logoColor=white&color=orange)
+  ![Heroku](https://img.shields.io/badge/Heroku-12343?style=flat&logo=Heroku)
   ![Xmapp](https://img.shields.io/badge/XAMPP-1342?style=flat&logo=XAMPP&color=grey)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1342?style=flat&logo=Visual%20Studio%20Code&color=blue)
   ![PyCharm](https://img.shields.io/badge/Pycharm-1342?style=flat&logo=Pycharm&color=9BCF53)
