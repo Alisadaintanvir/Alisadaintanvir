@@ -80,12 +80,12 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 
 <br>
 
-<div>
 ## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b></p>
 
  
  
 <br>
+
 
 
 <table style="border: none">
@@ -143,6 +143,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/alisadaintanv
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
-
-</div>
 
