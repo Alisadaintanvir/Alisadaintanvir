@@ -40,8 +40,8 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 - 🎨 Frameworks & Libraries:
   
   ![React](https://img.shields.io/badge/React-12343?style=flat&logo=React&logoColor=white&color=0D6D8C)
-  ![Jquery](https://img.shields.io/badge/Jquery-12343?style=flat&logo=jquery&color=0769AD)
   ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
+  ![Jquery](https://img.shields.io/badge/Jquery-12343?style=flat&logo=jquery&color=0769AD)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-12343?style=flat&logo=Bootstrap&logoColor=white&color=6E2CF2)&nbsp;
   ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
