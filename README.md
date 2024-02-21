@@ -79,4 +79,28 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 
 <br>
 
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Let's Work on Your Project Together!
+
+If you have any inquiries regarding programming and web development, feel free to <a href="mailto:alisadaintanvir@gmail.com">contact me </a> via email.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com/alisadaintanvir">Fiverr</a> or <a href="https://www.linkedin.com/in/alisadaintanvir/">LinkedIn</a> to deploy your project on the web.
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Anything-12343?style=flat&logo=Anything&logoColor=white&label=Ask%20me&color=FFA41B">**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
+
 </div>
