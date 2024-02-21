@@ -37,13 +37,16 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   ![nodejs](https://img.shields.io/badge/Node_Js-23f12?style=flat&logo=Node.js&color=131E34)
   ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
   
-- 🎨 Frameworks
+- 🎨 Frameworks & Libraries:
   
   ![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
   ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
-  
+  ![Selenium](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
+  ![Numpy](https://img.shields.io/badge/Numpy-12343?style=flat&logo=Numpy&color=013243)&nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-12343?style=flat&logo=Pandas&color=130654)&nbsp;
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-12343?style=flat&logo=MatPlotLib&color=blue)&nbsp;
 
 
 - 💾 Databases:
@@ -51,6 +54,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   ![MongoDB](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-23f12?style=flat&logo=MySQL&color=orange)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23f12?style=flat&logo=PostgreSQL&color=131E34)
+
 
 - 🎛️ Application and Tools:
 
@@ -60,6 +64,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   ![Xmapp](https://img.shields.io/badge/XAMPP-1342?style=flat&logo=XAMPP&color=grey)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1342?style=flat&logo=Visual%20Studio%20Code&color=blue)
   ![PyCharm](https://img.shields.io/badge/Pycharm-1342?style=flat&logo=Pycharm&color=9BCF53)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-12343?style=flat&logo=Adobe%20Photoshop&color=1D24CA)
   ![Canva](https://img.shields.io/badge/Canva-1342?style=flat&logo=Canva&color=AC87C5)
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-12343?style=flat&logo=Microsoft&color=464FEB)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1342?style=flat&logo=Microsoft%20Excel&color=0C359E)
