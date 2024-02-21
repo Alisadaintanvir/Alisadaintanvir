@@ -35,9 +35,8 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Python](https://img.shields.io/badge/Python-23f12?style=flat&logo=Python&color=131E34)&nbsp;
   ![nodejs](https://img.shields.io/badge/Node_Js-23f12?style=flat&logo=Node.js&color=131E34)
-  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+  
 - 🎨 Frameworks
 
   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
