@@ -114,7 +114,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/alisadaintanv
 
 <p align="center">
  <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ <img border="0" width="20" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
  <a href="https://www.linkedin.com/in/alamin20/">
