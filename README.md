@@ -40,13 +40,16 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 - 🎨 Frameworks & Libraries:
   
   ![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+  ![Jquery](https://img.shields.io/badge/Jquery-12343?style=flat&logo=jquery&color=0769AD)
   ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-12343?style=flat&logo=Bootstrap&logoColor=white&color=6E2CF2)&nbsp;
   ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
   ![Selenium](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
   ![Numpy](https://img.shields.io/badge/Numpy-12343?style=flat&logo=Numpy&color=013243)&nbsp;
   ![Pandas](https://img.shields.io/badge/Pandas-12343?style=flat&logo=Pandas&color=130654)&nbsp;
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-12343?style=flat&logo=MatPlotLib&color=blue)&nbsp;
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-12343?style=flat&logo=SQLAlchemy&color=778877)&nbsp;
 
 
 - 💾 Databases:
