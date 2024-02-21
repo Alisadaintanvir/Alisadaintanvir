@@ -79,7 +79,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 
 <br>
 
-## <span align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b></span>
+## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b></p>
 
  
  
