@@ -55,7 +55,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 - 💾 Databases:
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-23f12?style=flat&logo=MySQL&color=orange)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-12343?style=flat&logo=MySQL&logoColor=white&color=3A6790)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23f12?style=flat&logo=PostgreSQL&color=131E34)
 
 
