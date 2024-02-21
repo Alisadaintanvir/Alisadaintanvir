@@ -15,7 +15,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 
 <p align="center">
 <a href="https://github.com/Alisadaintanvir">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alisadaintanvir&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alisadaintanvir&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alisadaintanvir&layout=compact&langs_count=8&theme=outrun&include_all_commits=true&count_private=true"/>
 </a>
 </p>
