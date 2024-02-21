@@ -8,7 +8,7 @@
 </div>
 
 <p>
-I'm a recent Computer Science & Engineering graduate at Varendra University with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table.
+I'm a recent Computer Science & Engineering graduate at Varendra University with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table. Proficient in full-stack development, and competitive programming, and adept in key areas including Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Wordpress.
 </p>
 ---
 
