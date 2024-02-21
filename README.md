@@ -40,7 +40,9 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 - 🎨 Frameworks
   
   ![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+  ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
+  ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
+  ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
   
 
 
