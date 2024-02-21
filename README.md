@@ -45,7 +45,7 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-12343?style=flat&logo=Bootstrap&logoColor=white&color=6E2CF2)&nbsp;
   ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
   ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
-  ![Selenium](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
+  ![Selenium](https://img.shields.io/badge/Selenium-12343?style=flat&logo=Selenium&logoColor=white&color=4EB436)&nbsp;
   ![Numpy](https://img.shields.io/badge/Numpy-12343?style=flat&logo=Numpy&color=013243)&nbsp;
   ![Pandas](https://img.shields.io/badge/Pandas-12343?style=flat&logo=Pandas&color=130654)&nbsp;
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-12343?style=flat&logo=MatPlotLib&color=blue)&nbsp;
