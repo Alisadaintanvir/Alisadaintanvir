@@ -8,7 +8,7 @@
 </div>
 
 <p>
-I'm a recent Computer Science graduate with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table.
+I'm a recent Computer Science & Engineering graduate at Varendra University with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table.
 </p>
 ---
 
