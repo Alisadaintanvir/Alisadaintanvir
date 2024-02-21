@@ -1,10 +1,12 @@
-<h1 align="center">
+<div><h1 align="center">
    Hello World! I'm Ali Sadain Tanvir.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=22&pause=1000&color=F7A033&center=true&random=false&width=435&lines=Full+stack+web+developer;Python+Programmer;Wordpress+Expert;Self-taught+Learner"></img>
 </p>
+</div>
+
 <p>
 I'm a recent Computer Science graduate with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table.
 </p>
