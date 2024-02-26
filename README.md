@@ -20,8 +20,6 @@ I'm a recent Computer Science & Engineering graduate at Varendra University with
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Alisadaintanvir&color=yellow)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
